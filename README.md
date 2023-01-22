@@ -1,2 +1,2 @@
 # ImageProcessing
-min_max_normalization, z_normalization, black_white filter, convolution, convolution_pad_zeros
+Implementing min_max_normalization, z_normalization, black_white filter, convolution, and convolution_pad_zeros functions in Python. 
